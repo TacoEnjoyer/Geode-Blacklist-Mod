@@ -19,7 +19,7 @@
 ## Support:
 Nếu có thắc mắc, vui lòng hãy: 
 - Truy cập Server Discord của GDVNPS để nhận được sự trợ giúp từ bọn mình: https://discord.gg/SmBs7xGSWM.
-- Tạo issue mới tại đây **(Không khuyến khích vì ít khi check)**: https://github.com/thxhtrxn/GDVNPS-Mods-Blacklist/issues
+- Tạo issue mới tại đây **(Không khuyến khích vì ít khi check)**: https://github.com/TacoEnjoyer/Geode-Blacklist-Mod/issues
 
 > *Copyright (c) GDVNPS Community 2024-present* 
 
